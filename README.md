@@ -6,7 +6,7 @@ I just have finished my Bachelor’s degree in Telecommunications Engineering in
 
 On top of that, web developing, and multiplatform programming are now the focus of my self studying. :closed_book:
 
-Now I'm focusing on 
+**Now I'm focusing on**
 Currently, I’m improving my skills on the full stack MERN.
 
 **Find me on Linkedin** :+1:
